@@ -16,8 +16,8 @@ while(true){
             Console.Write("STOP");
             break;
         }
-    else{
-        Console.Write("Введите число или 'q'");
+        else{
+            Console.Write("Введите число или 'q'");
+        }
     }
-    }
-}
+}    
